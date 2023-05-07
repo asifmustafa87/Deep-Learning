@@ -85,9 +85,6 @@ Datasets will generally be downloaded automatically by exercise notebooks and st
                 ├── cifar10.p          # dataset files 
 
 ## 4. Exercise Submission
-Your trained models will be automatically evaluated on a test set on our server. To this end, login or register for an account at:
-
-https://i2dl.vc.in.tum.de/
 
 Note that only students who have registered for this class in TUM Online can register for an account. This account provides you with temporary credentials to login onto the machines at our chair.
 
