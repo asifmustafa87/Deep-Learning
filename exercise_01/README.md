@@ -48,8 +48,6 @@ NOTE: Pytorch does NOT support MacBooks with the M1 or M2 cpus. Therefore, in or
 
 ## 2 Exercise Download
 
-The exercises will be uploaded to the course website at https://www.3dunderstanding.org/i2dl-w22/. You can download the exercises directly from there.
-
 Each exercise contains at least one jupyter notebook, that could be opened by the jupyter-notebook plaform (In the terminal, go to the relevant folder and type `jupyter notebook`), or several IDEs that support it,
 such as Microsoft's VScode or JetBrains' PyCharm.
 
